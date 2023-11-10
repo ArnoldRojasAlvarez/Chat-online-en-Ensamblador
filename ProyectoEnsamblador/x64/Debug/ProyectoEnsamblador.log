@@ -1,0 +1,103 @@
+﻿  Assembling ProyectoEnsamblador.asm...
+C:\Irvine\SmallWin.inc(10): error A2008: syntax error : .
+C:\Irvine\SmallWin.inc(11): error A2008: syntax error : .
+C:\Irvine\SmallWin.inc(12): error A2008: syntax error : .
+C:\Irvine\SmallWin.inc(299): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(302): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(311): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(314): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(318): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(323): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(332): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(339): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(343): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(347): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(351): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(357): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(362): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(365): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(369): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(372): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(380): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(385): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(390): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(393): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(398): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(403): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(406): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(412): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(418): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(421): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(428): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(434): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(441): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(444): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(448): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(452): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(456): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(460): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(464): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(467): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(472): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(478): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(481): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(484): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(488): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(495): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(502): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(509): error A2008: syntax error : ,
+C:\Irvine\SmallWin.inc(516): error A2008: syntax error : near
+C:\Irvine\Irvine32.inc(22): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(66): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(71): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(76): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(82): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(87): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(93): error A2008: syntax error : ,
+C:\Irvine\Irvine32.inc(99): error A2008: syntax error : ,
+ProyectoEnsamblador.asm(325): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(325): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(640): error A2008: syntax error : invoke
+ProyectoEnsamblador.asm(643): error A2008: syntax error : invoke
+ProyectoEnsamblador.asm(645): error A2008: syntax error : SetConsoleMode
+ProyectoEnsamblador.asm(647): error A2044: invalid character in file
+ProyectoEnsamblador.asm(1020): error A2008: syntax error : invoke
+ProyectoEnsamblador.asm(1075): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1075): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1087): error A2008: syntax error : invoke
+ProyectoEnsamblador.asm(1142): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1142): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1154): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1154): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1165): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1165): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1176): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1176): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1274): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1274): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1476): error A2008: syntax error : invoke
+ProyectoEnsamblador.asm(1517): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1517): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1523): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1523): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1530): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1530): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1536): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1536): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1542): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1542): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1548): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1548): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1691): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1691): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1807): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1807): error A2070: invalid instruction operands
+ProyectoEnsamblador.asm(1919): error A2008: syntax error : .
+ProyectoEnsamblador.asm(1921): error A2008: syntax error : INVOKE
+ProyectoEnsamblador.asm(1923): error A2008: syntax error : main
+ProyectoEnsamblador.asm(1923): error A2088: END directive required at end of file
+ProyectoEnsamblador.asm(300): error A2229: cannot use labels and 32-bit addressing in the same expression
+ProyectoEnsamblador.asm(491): error A2229: cannot use labels and 32-bit addressing in the same expression
+ProyectoEnsamblador.asm(650): error A2229: cannot use labels and 32-bit addressing in the same expression
+ProyectoEnsamblador.asm(693): fatal error A1012: error count exceeds 100; stopping assembly
+G:\Visual\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml64.exe /c /nologo /Zi /Fo"x64\Debug\ProyectoEnsamblador.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /TaProyectoEnsamblador.asm" salió con el código 1.
